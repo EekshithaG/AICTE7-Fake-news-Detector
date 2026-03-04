@@ -1,4 +1,4 @@
-# Fake News Detection – Hackathon Demo
+# Fake News Detection 
 
 **Theme:** Generative AI & LLM Applications (but using classical ML for explainability & speed)
 
